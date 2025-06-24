@@ -1,0 +1,6 @@
+# DevOps Internship Assignment
+
+## Setup
+
+```bash
+docker-compose up --build
